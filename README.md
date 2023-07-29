@@ -1,1 +1,1 @@
-# Coffee-Machine-Python
+# Coffee Machine Python
